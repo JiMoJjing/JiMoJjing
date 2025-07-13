@@ -5,4 +5,4 @@
 20년 이상의 플레이 경험을 바탕으로, 더 재미있고 완성도 높은 게임을 설계하고 구현하는 게임 개발자를 꿈꾸고 있습니다.
 
 ### 기술 스택 ###
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine4-bbbbbb?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5 GAS-3262a8?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine4-aaaaaa?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5 GAS-3262a8?style=flat-square&logo=unrealengine&logoColor=white"/>
