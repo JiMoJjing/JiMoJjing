@@ -17,7 +17,8 @@
 <br/>
 로봇 캐릭터를 메인으로 한 삼인칭 슈팅 게임입니다.
 
-### Project OW (Overwatch) <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/44471559-19a0-45cc-b338-e8a1ba8452bd" />[[리포지토리](https://github.com/JiMoJjing/OW)] ###
+### Project OW (Overwatch) ###
 <img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/a6a003cb-77d8-4011-a463-82ddf777e6d8"/><br/>
+<img width="14" height="14" alt="Image" src="https://github.com/user-attachments/assets/44471559-19a0-45cc-b338-e8a1ba8452bd" />[[리포지토리](https://github.com/JiMoJjing/OW)] / <img width="14" height="14" alt="Image" src="https://github.com/user-attachments/assets/e9395b1d-5ed8-4379-9504-e5d6bf73742a" />[[노션](https://abrupt-reptile-c68.notion.site/OW-22d8ca612f1e80028f75c9072b87952e)] <br/>
 <br/>
 오버워치에서 유명한 캐릭터 "겐지"를 삼인칭으로 구현한 프로젝트 입니다.
