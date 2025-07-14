@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine4-aaaaaa?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5 GAS-3262a8?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 ## 프로젝트 ##
-### 프로젝트 RTS (Robot ThridPerson Shooting) ###
+### Project RTS (Robot ThridPerson Shooting) ###
 로봇 캐릭터를 메인으로 한 삼인칭 슈팅 게임입니다.
-### 프로젝트 OW (Overwatch) ###
+### Project OW (Overwatch) ###
 오버워치에서 유명한 캐릭터 "겐지"를 삼인칭으로 구현한 프로젝트 입니다.
