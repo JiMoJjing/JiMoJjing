@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine4-aaaaaa?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/UnrealEngine5 GAS-3262a8?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 ## 프로젝트 ##
-### Project RTS (Robot ThridPerson Shooting) ###
-[<img width="1007" height="400" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/>](https://github.com/JiMoJjing/ProjectRTS)
+### Project RTS (Robot ThridPerson Shooting)[링크](https://github.com/JiMoJjing/ProjectRTS) ###
+<img width="1007" height="400" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/>
 로봇 캐릭터를 메인으로 한 삼인칭 슈팅 게임입니다.
 
 ### Project OW (Overwatch) ###
