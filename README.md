@@ -13,7 +13,7 @@
 ## 프로젝트 ##
 ### Project RTS (Robot ThridPerson Shooting) ###
 <img width="750" height="300" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/> <br/>
-<img width="14" height="14" alt="Image" src="https://github.com/user-attachments/assets/44471559-19a0-45cc-b338-e8a1ba8452bd" />[[리포지토리](https://github.com/JiMoJjing/ProjectRTS)] <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">[[노션](https://abrupt-reptile-c68.notion.site/RTS-RobotThirdPersonShooting-22d8ca612f1e808c980feab2f7758290)] <br/>
+<img width="14" height="14" alt="Image" src="https://github.com/user-attachments/assets/44471559-19a0-45cc-b338-e8a1ba8452bd" />[[리포지토리](https://github.com/JiMoJjing/ProjectRTS)] / <img width="14" height="14" alt="Image" src="https://github.com/user-attachments/assets/e9395b1d-5ed8-4379-9504-e5d6bf73742a" />[[노션](https://abrupt-reptile-c68.notion.site/RTS-RobotThirdPersonShooting-22d8ca612f1e808c980feab2f7758290)] <br/>
 로봇 캐릭터를 메인으로 한 삼인칭 슈팅 게임입니다.
 
 ### Project OW (Overwatch) <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/44471559-19a0-45cc-b338-e8a1ba8452bd" />[[리포지토리](https://github.com/JiMoJjing/OW)] ###
