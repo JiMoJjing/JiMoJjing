@@ -12,8 +12,7 @@
 
 ## 프로젝트 ##
 ### Project RTS (Robot ThridPerson Shooting) ###
-[<img width="1592" height="632" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/>](https://github.com/JiMoJjing/ProjectRTS)
-(이미지를 클릭하시면 프로젝트로 이동합니다.)
+[<img width="1007" height="400" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/>](https://github.com/JiMoJjing/ProjectRTS)
 로봇 캐릭터를 메인으로 한 삼인칭 슈팅 게임입니다.
 
 ### Project OW (Overwatch) ###
