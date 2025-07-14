@@ -12,7 +12,8 @@
 
 ## 프로젝트 ##
 ### Project RTS (Robot ThridPerson Shooting) ###
-<img width="1592" height="632" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c" />
+<img width="1592" height="632" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/>
 로봇 캐릭터를 메인으로 한 삼인칭 슈팅 게임입니다.
+
 ### Project OW (Overwatch) ###
 오버워치에서 유명한 캐릭터 "겐지"를 삼인칭으로 구현한 프로젝트 입니다.
