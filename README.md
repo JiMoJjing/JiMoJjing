@@ -12,9 +12,9 @@
 
 ## 프로젝트 ##
 ### Project RTS (Robot ThridPerson Shooting) [[링크](https://github.com/JiMoJjing/ProjectRTS)] ###
-<img width="1007" height="400" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/>  
+<img width="1007" height="400" alt="Image" src="https://github.com/user-attachments/assets/e08a8a20-6ec1-4d15-88f4-0dc4df5e098c"/><br/>
 로봇 캐릭터를 메인으로 한 삼인칭 슈팅 게임입니다.
 
 ### Project OW (Overwatch) [[링크](https://github.com/JiMoJjing/OW)] ###
-<img width="910" height="546" alt="Image" src="https://github.com/user-attachments/assets/a6a003cb-77d8-4011-a463-82ddf777e6d8"/>  
+<img width="910" height="546" alt="Image" src="https://github.com/user-attachments/assets/a6a003cb-77d8-4011-a463-82ddf777e6d8"/><br/>
 오버워치에서 유명한 캐릭터 "겐지"를 삼인칭으로 구현한 프로젝트 입니다.
